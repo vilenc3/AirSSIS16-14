@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2020
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "AirThesis", "AirThesis\AirThesis.dtproj", "{BF29EFAC-5364-4CDD-A996-FAEA5D71A0AC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BF29EFAC-5364-4CDD-A996-FAEA5D71A0AC}.Development|Default.ActiveCfg = Development
+		{BF29EFAC-5364-4CDD-A996-FAEA5D71A0AC}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C908991A-44D8-4740-8387-299624021DA4}
+	EndGlobalSection
+EndGlobal
